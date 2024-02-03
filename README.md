@@ -13,4 +13,4 @@ The key components of the project include:
 -Model training and evaluation
 -Flask + React app for interactive caption generation
 
-![Screenshot][https://github.com/Chandramani05/Image_Captioning_App/blob/main/backend/Image_Web.png]
+![Screenshot][backend/Image_Web.png]
