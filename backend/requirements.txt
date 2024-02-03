@@ -1,0 +1,7 @@
+flask
+tensorflow
+Pillow
+flask_cors
+transformers
+torch torchvision
+numpy
