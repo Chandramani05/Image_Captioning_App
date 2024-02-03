@@ -42,7 +42,7 @@ def upload():
         # image_path = '../../backend/upload/' + file.filename
         # print(image_path)
 
-        caption = predict_caption('upload/' + file.filename)
+        caption = caption_this_image('upload/' + file.filename)
         print(caption)
 
         result_dic = {
