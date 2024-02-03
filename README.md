@@ -13,4 +13,4 @@ The key components of the project include:
 -Model training and evaluation
 -Flask + React app for interactive caption generation
 
-![Screenshot][Image_Web.png]
+![Screenshot][Image_Web.png?raw=true]
