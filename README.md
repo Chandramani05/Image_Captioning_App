@@ -7,10 +7,10 @@ Note: While using the VGG16 model for feature extraction provides accurate resul
 
 The key components of the project include:
 
--Image feature extraction using a pretrained VGG16 model (Consider using MobileNetV2 for memory efficiency)
--Caption preprocessing and tokenization
--Custom captioning model architecture with attention mechanism
--Model training and evaluation
--Flask + React app for interactive caption generation
+- Image feature extraction using a pretrained VGG16 model (Consider using MobileNetV2 for memory efficiency)
+- Caption preprocessing and tokenization
+- Custom captioning model architecture with attention mechanism
+- Model training and evaluation
+- Flask + React app for interactive caption generation
 
 ![Screenshot](Image_Web.png?raw=true)
